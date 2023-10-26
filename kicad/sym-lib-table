@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "st_glue")(type "Legacy")(uri "${KIPRJMOD}/st_glue.lib")(options "")(descr ""))
+  (lib (name "st_shifter")(type "Legacy")(uri "${KIPRJMOD}/st_shifter.lib")(options "")(descr ""))
+)

@@ -1,7 +1,7 @@
 {
   "board": {
     "active_layer": 0,
-    "active_layer_preset": "",
+    "active_layer_preset": "All Layers",
     "auto_track_width": true,
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -70,6 +70,31 @@
     "version": 3
   },
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "video_rider_st.kicad_sch",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 65,
+          "pos_y": 47,
+          "size_x": 1695,
+          "size_y": 973
+        }
+      },
+      {
+        "name": "video_rider_st.kicad_pcb",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 66,
+          "pos_y": 109,
+          "size_x": 1414,
+          "size_y": 791
+        }
+      }
+    ]
   }
 }

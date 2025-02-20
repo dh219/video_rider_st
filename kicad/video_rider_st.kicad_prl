@@ -70,19 +70,6 @@
     "version": 3
   },
   "project": {
-    "files": [
-      {
-        "name": "video_rider_st.kicad_sch",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": 79,
-          "pos_y": 21,
-          "size_x": 1400,
-          "size_y": 934
-        }
-      }
-    ]
+    "files": []
   }
 }

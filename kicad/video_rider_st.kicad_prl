@@ -1,12 +1,14 @@
 {
   "board": {
     "active_layer": 0,
-    "active_layer_preset": "All Layers",
+    "active_layer_preset": "",
     "auto_track_width": true,
+    "hidden_netclasses": [],
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
+      "images": 0.6,
       "pads": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
@@ -36,7 +38,6 @@
       8,
       9,
       10,
-      11,
       12,
       13,
       14,
@@ -65,36 +66,17 @@
     "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
+  "git": {
+    "repo_password": "",
+    "repo_type": "",
+    "repo_username": "",
+    "ssh_key": ""
+  },
   "meta": {
     "filename": "video_rider_st.kicad_prl",
     "version": 3
   },
   "project": {
-    "files": [
-      {
-        "name": "video_rider_st.kicad_sch",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": 65,
-          "pos_y": 47,
-          "size_x": 1695,
-          "size_y": 973
-        }
-      },
-      {
-        "name": "video_rider_st.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": 66,
-          "pos_y": 109,
-          "size_x": 1414,
-          "size_y": 791
-        }
-      }
-    ]
+    "files": []
   }
 }

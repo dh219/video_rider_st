@@ -1,4 +1,4 @@
-20905744500496857
+20909225649376247
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2393,6 +2393,13 @@ speaker CUI
 0
 2
 2
+CXO_Dual_DIP
+CXO_Dual_DIP
+Oscillator, DIP14, http://cdn-reichelt.de/documents/datenblatt/B400/OSZI.pdf
+oscillator
+0
+6
+6
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -62285,6 +62292,13 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
+PLCC_plugs
+PLCC68_male_pins
+Through hole straight pin header, 1x17, 1.27mm pitch, single row
+Through hole pin header THT 1x17 1.27mm single row
+0
+68
+68
 Package_BGA
 Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4
 Analog BGA-28 4.0mm x 6.25mm package, pitch 0.4mm pad, based on https://www.analog.com/media/en/technical-documentation/data-sheets/8063fa.pdf

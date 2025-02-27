@@ -78,6 +78,19 @@
     "version": 3
   },
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "video_rider_st.kicad_pcb",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 29,
+          "pos_y": 0,
+          "size_x": 1451,
+          "size_y": 894
+        }
+      }
+    ]
   }
 }

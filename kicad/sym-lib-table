@@ -1,8 +1,0 @@
-(sym_lib_table
-  (lib (name "st_glue")(type "Legacy")(uri "${KIPRJMOD}/st_glue.lib")(options "")(descr ""))
-  (lib (name "st_shifter")(type "Legacy")(uri "${KIPRJMOD}/st_shifter.lib")(options "")(descr ""))
-  (lib (name "62684-501100ALF")(type "KiCad")(uri "${KIPRJMOD}/62684-501100ALF/62684-501100ALF.kicad_sym")(options "")(descr "")(disabled))
-  (lib (name "MCU_RaspberryPi_and_Boards")(type "Legacy")(uri "${KIPRJMOD}/RP_Silicon_KiCad/KiCadLibraries/MCU_RaspberryPi_and_Boards.lib")(options "")(descr ""))
-  (lib (name "F3311A7H121020E200")(type "KiCad")(uri "${KIPRJMOD}/F3311A7H121020E200/F3311A7H121020E200.kicad_sym")(options "")(descr ""))
-  (lib (name "CXO_Dual_DIP")(type "KiCad")(uri "${KIPRJMOD}/CXO_Dual_DIP/CXO_Dual_DIP.kicad_sym")(options "")(descr ""))
-)

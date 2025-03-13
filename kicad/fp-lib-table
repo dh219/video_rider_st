@@ -1,6 +1,0 @@
-(fp_lib_table
-  (lib (name "F3311A7H121020E200")(type "KiCad")(uri "${KIPRJMOD}/F3311A7H121020E200")(options "")(descr ""))
-  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/RP_Silicon_KiCad/KiCadLibraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
-  (lib (name "PLCC_plugs")(type "KiCad")(uri "${KIPRJMOD}/PLCC_plugs.pretty")(options "")(descr ""))
-  (lib (name "CXO_Dual_DIP")(type "KiCad")(uri "${KIPRJMOD}/CXO_Dual_DIP")(options "")(descr ""))
-)

@@ -80,27 +80,27 @@
   "project": {
     "files": [
       {
-        "name": "vr_glueboard.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": 56,
-          "pos_y": 0,
-          "size_x": 1463,
-          "size_y": 957
-        }
-      },
-      {
         "name": "vr_glueboard.kicad_sch",
         "open": false,
         "window": {
           "display": 0,
           "maximized": false,
-          "pos_x": 22,
-          "pos_y": 49,
+          "pos_x": 586,
+          "pos_y": 380,
           "size_x": 1214,
           "size_y": 820
+        }
+      },
+      {
+        "name": "vr_glueboard.kicad_pcb",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 22,
+          "pos_y": 26,
+          "size_x": 1463,
+          "size_y": 957
         }
       }
     ]

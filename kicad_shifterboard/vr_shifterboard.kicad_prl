@@ -78,6 +78,31 @@
     "version": 3
   },
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "vr_shifterboard.kicad_pcb",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 32,
+          "pos_y": 33,
+          "size_x": 1463,
+          "size_y": 957
+        }
+      },
+      {
+        "name": "vr_shifterboard.kicad_sch",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 213,
+          "pos_y": 75,
+          "size_x": 1214,
+          "size_y": 820
+        }
+      }
+    ]
   }
 }

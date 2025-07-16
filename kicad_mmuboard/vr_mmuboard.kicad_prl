@@ -1,8 +1,8 @@
 {
   "board": {
-    "active_layer": 44,
+    "active_layer": 37,
     "active_layer_preset": "All Layers",
-    "auto_track_width": true,
+    "auto_track_width": false,
     "hidden_netclasses": [],
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -80,27 +80,27 @@
   "project": {
     "files": [
       {
-        "name": "vr_mmuboard.kicad_sch",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": 217,
-          "pos_y": 38,
-          "size_x": 1214,
-          "size_y": 820
-        }
-      },
-      {
         "name": "vr_mmuboard.kicad_pcb",
         "open": false,
         "window": {
           "display": 0,
           "maximized": false,
-          "pos_x": 74,
+          "pos_x": 52,
           "pos_y": 16,
           "size_x": 1406,
           "size_y": 884
+        }
+      },
+      {
+        "name": "vr_mmuboard.kicad_sch",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 266,
+          "pos_y": 80,
+          "size_x": 1214,
+          "size_y": 820
         }
       }
     ]
